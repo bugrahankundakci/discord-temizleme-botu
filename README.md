@@ -1,3 +1,5 @@
 # Discord server cleaning tool! - Discord sunucu temizleme botu!
 
-> Discord js v14!
+> Discord js V14!
+- Slash destekli!
+- Menülü!
