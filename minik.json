@@ -1,0 +1,10 @@
+{
+    "bot": {
+        "token": "BOT TOKEN",
+        "botid": "BOT CLIENT ID",
+        "serverid": "KULLANDIGIN SERVER ID'SI",
+        "oynuyor": "militanla beraber bot yapma",
+        "durum": "dnd-invisible-idle-online"
+    }
+
+}
