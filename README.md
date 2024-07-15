@@ -10,4 +10,4 @@
 - Sunucudaki üyelerin ismini değiştirir.
 
 
-not: Botu herkes kullanabiliyor, yetki sistemi bulunmamakta! Bu durumu göz önünde bulundurarak kullanın. (komutları herkes kullanabilir)
+Not: Botu herkes kullanabiliyor, yetki sistemi bulunmamakta! Bu durumu göz önünde bulundurarak kullanın. (komutları herkes kullanabilir)
